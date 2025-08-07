@@ -30,9 +30,9 @@
 ## Структура портфолиo
 | Файл | Описание                                     |
 |------|----------------------------------------------|
-| [`clinika_analysis.sql`](/clinika_analysis.sql) | Запросы к БД для оценки работы клиники (SQL) |
-| [`RFM_analysis.sql`](/RFM_analysis.sql) | RFM-анализ аптечной сети (SQL)               |
-| [`RFM_dashboard.pdf`](/RFM_dashboard.pdf) | RFM-анализ аптечной сети, дашборд (Metabase) |
+| [`clinika_analysis.sql`](https://github.com/Utsumi1/Data_Analyst_Portfolio/blob/master/Clinika%20analysis/clinika_analysis.sql) | Запросы к БД для оценки работы клиники (SQL) |
+| [`RFM_analysis.sql`](https://github.com/Utsumi1/Data_Analyst_Portfolio/blob/master/RFM%20analysis%20apteka/RFM_analysis.sql) | RFM-анализ аптечной сети (SQL)               |
+| [`RFM_dashboard.pdf`](https://github.com/Utsumi1/Data_Analyst_Portfolio/blob/master/RFM%20analysis%20apteka/RFM_dashboard.pdf) | RFM-анализ аптечной сети, дашборд (Metabase) |
 
 ## Контакты  
 - **Telegram**: [@hiagara](https://t.me/hiagara)  
